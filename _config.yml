@@ -11,7 +11,7 @@ title                    : "Pedro Sanchez | Personal Webpage"
 title_separator          : "-"
 name                     : &name "Pedro Sanchez"
 description              : &description "personal description"
-url                      : www.ppsanchez.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : sanches-pedro.github.io #www.ppsanchez.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "github.com/SANCHES-Pedro/sanches-pedro.github.io"
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SANCHES-Pedro"
+  github           : "SANCHES-Pedro"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/pedro-sanches-ppsg"
+  linkedin         : "in/pedro-sanches-ppsg"
   orcid            : "https://orcid.org/0000-0003-2435-3049"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/SnchzPedro_"
+  twitter          : "SnchzPedro_"
   vine             :
   weibo            :
   xing             :
