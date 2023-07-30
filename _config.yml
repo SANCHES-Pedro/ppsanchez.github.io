@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro Sanchez | Personal Webpage"
+title                    : "Pedro P. Sanchez | Personal Webpage"
 title_separator          : "-"
-name                     : &name "Pedro Sanchez"
+name                     : &name "Pedro P. Sanchez"
 description              : &description "personal description"
 url                      : sanches-pedro.github.io #www.ppsanchez.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000
@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Sanchez"
-  avatar           : "pedro.jpg"
+  avatar           : "pedro_new.jpg"
   bio              : "PhD student in machine learning for healthcare"
-  location         : "Ediburgh"
+  location         : "Edinburgh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KPchGe4AAAAJ&hl=en"
